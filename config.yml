@@ -1,18 +1,18 @@
 baseUrl: ""
 languageCode: "ja-jp"
-title: "第二回小樽潮風高校文化祭「しおばな祭」"
+title: "小春六花オンリーイベント「小春六花はヨーグルトが食べたい」"
 theme: "sakura"
 params:
   author: "Nectarition"
-  since: 2022
+  since: 2021
   event:
     logo: "/logo.svg"
-    genre: "第二回小樽潮風高校文化祭"
-    name: "しおばな祭"
-    subTitle: "TOKYO6キャラクターオンリーイベント"
-    date: "2023年11月4日(土)"
-    place: "みらい館大明 3階 308室＠東京･池袋"
-    illustrator: "Mo.きづち"
+    genre: ""
+    name: "小春六花はヨーグルトが食べたい"
+    subTitle: "小春六花オンリーイベント"
+    date: "2022年11月14日(日)"
+    place: "サンシャインクリエイション2021 Autumn"
+    illustrator: "ジンベイ"
   TwitterScreenName: "nct_kohatabe"
   GoogleAnalyticsMeasuringId: "G-NJN40E6S69"
 menu:
