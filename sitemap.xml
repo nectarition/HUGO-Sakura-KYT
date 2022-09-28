@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://kohatabe.jp/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://kohatabe.jp/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://kohatabe.jp/tags/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://kohatabe.jp/contact/</loc>
   </url><url>
-    <loc>/circle-list/</loc>
+    <loc>https://kohatabe.jp/circle-list/</loc>
   </url><url>
-    <loc>/privacy-policy/</loc>
+    <loc>https://kohatabe.jp/privacy-policy/</loc>
   </url><url>
-    <loc>/detail/</loc>
+    <loc>https://kohatabe.jp/detail/</loc>
   </url>
 </urlset>

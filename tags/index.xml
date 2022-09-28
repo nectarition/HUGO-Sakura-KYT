@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 小春六花オンリーイベント「小春六花はヨーグルトが食べたい」</title>
-    <link>/tags/</link>
+    <link>https://kohatabe.jp/tags/</link>
     <description>Recent content in Tags on 小春六花オンリーイベント「小春六花はヨーグルトが食べたい」</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language><atom:link href="https://kohatabe.jp/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
