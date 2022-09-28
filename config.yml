@@ -6,11 +6,11 @@ params:
   author: "Nectarition"
   since: 2021
   event:
-    logo: "/logo.svg"
+    logo: "/logotype.png"
     genre: ""
     name: "小春六花はヨーグルトが食べたい"
     subTitle: "小春六花オンリーイベント"
-    date: "2022年11月14日(日)"
+    date: "2021年11月14日(日)"
     place: "サンシャインクリエイション2021 Autumn"
     illustrator: "ジンベイ"
   TwitterScreenName: "nct_kohatabe"
