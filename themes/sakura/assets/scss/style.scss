@@ -1,6 +1,6 @@
-$keycolor: hsl(345, 77%, 65%);
+$keycolor: hsl(205, 64%, 45%);
 @function keycolor($luminance) {
-  @return hsl(345, 77%, 65% + $luminance);
+  @return hsl(205, 64%, 45% + $luminance);
 }
 
 @mixin mq {
@@ -94,6 +94,13 @@ footer {
   padding: 20px;
   background-color: #404040;
   color: #ffffff;
+
+  a {
+    color: keycolor(20%);
+    &:hover {
+      color: keycolor(10%);
+    }
+  }
 }
 
 table {

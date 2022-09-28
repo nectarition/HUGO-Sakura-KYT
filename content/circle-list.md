@@ -1,37 +1,25 @@
 ---
 title: "サークルリスト"
-draft: true
+draft: false
 menuDisplay: true
 menuTitle: "サークルリスト"
 menuIcon: "e896"
-menuOrder: 5
+menuOrder: 15
 ---
 
-| スペース名 | サークル名           | ペンネーム       | リンク            |
-| ---------- | -------------------- | ---------------- | ----------------- |
-| 1年1組     | Olfactory Laboratory | XAXIS            | Twitter           |
-| 1年2組     | Techno signature     | Techno signature | Twitter           |
-| 1年3組     | 氷笠家屋             | 十竜             | Twitter Web       |
-| 1年4組     | 空夢用紙             | 風原             | Twitter           |
-| 2年1組     | 劇団ZEKE座           | ZEKE22           | Twitter Pixiv Web |
-| 2年2組     | 白い箱               | しろねこ         | Twitter           |
-| 2年3組     | モナルダの木         | ベルガモット     | Twitter Web       |
-| 2年4組     | あひる工場           | 風呂巫女         | Twitter Pixiv Web |
-| 3年1組     | ツギハギスクリプト   | モノロク         | Twitter Pixiv     |
-| 3年2組     | アルパカのプロ       | あるぱかの遊騎   | Twitter Pixiv     |
-| 3年3組     | 雛菊書房             | 小鳥遊　昴       | Twitter Web       |
+## 直接参加サークル
 
-## 企業参加
-
-### 合同会社TOKYO6 ENTERTAINMENT & エルクリストア 合同出展
-
-企業参加スペースでは、以下の企画を行います。
-
-- キャラクターグッズ販売
-- 公式等身大パネル展示
-- 公式制服衣装展示(写真撮影可)
-
-### 関連リンク
-
-- [合同会社TOKYO6 ENTERTAINMENT 公式サイト](https://tokyo6.tokyo/)
-- [エルクリストア](https://elcre-store.com/)
+| スペース | サークル         | ペンネーム             | リンク                                                                                                                            |
+| -------- | ---------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| シ01ab   | NCT-Blossom      | 染宮ねいろ@NCT-Blossom | [Twitter](https://twitter.com/nct_kohatabe) [Web](https://kohatabe.jp/)                                                           |
+| シ02a    | モナルダの木     | ベルガモット           | [Twitter](https://twitter.com/belgamot_007) [Web](https://belgamot.fanbox.cc/)                                                    |
+| シ02b    | ワインねこ       | イテス                 | [Twitter](https://twitter.com/itesuA) [Pixiv](https://pixiv.net/users/853997) [Web](http://wineneko.fc2web.com/)                  |
+| シ03a    | 蛸足海鮮         | さびを                 | [Twitter](https://twitter.com/sabiwo_gray)                                                                                        |
+| シ03b    | ふやけたさんち   | ふやけた               | [Twitter](https://twitter.com/huya00keta)                                                                                         |
+| シ04ab   | マホウノシズク   | 510                    | [Twitter](https://twitter.com/_magical_drop_)                                                                                     |
+| シ05a    | Techno signature | テクノシグネイチャー   | [Twitter](https://twitter.com/techno_sig)                                                                                         |
+| シ05b    | 電波塔           | かなた                 | [Twitter](https://twitter.com/coreesm) [Pixiv](https://pixiv.net/users/14648982)                                                  |
+| シ06a    | 雑草畑           | ひらあさみ             | [Twitter](https://twitter.com/thistleiris03)                                                                                      |
+| シ06b    | あひる工場       | 風呂巫女               | [Twitter](https://twitter.com/fromiko0608) [Pixiv](https://pixiv.net/users/1950177)                                               |
+| シ07ab   | 雛菊書房         | 小鳥遊　昴             | [Twitter](https://twitter.com/HinagikuBooks) [Pixiv](https://pixiv.net/users/7740759) [Web](https://www.hinagiku.club/)           |
+| シ08a    | Lille Links      | あにゃりす             | [Twitter](https://twitter.com/Luci_Anya_K) [Pixiv](https://pixiv.net/users/5612609) [Web](http://lille-links.wixsite.com/anyaris) |
