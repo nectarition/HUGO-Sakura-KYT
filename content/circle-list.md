@@ -1,6 +1,6 @@
 ---
 title: "サークルリスト"
-draft: false
+draft: true
 menuDisplay: true
 menuTitle: "サークルリスト"
 menuIcon: "e896"
